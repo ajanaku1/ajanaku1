@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajanaku1
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning git and css.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on a any realworld problems.
 - 📫 How to reach me at mykdahunsi@gmail.com
 

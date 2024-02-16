@@ -1,15 +1,18 @@
-🚀 **Aspiring Full-Stack JavaScript Developer**
+# 💫 About Me:
+🔭 I’m currently working on mobile apps<br>👯 I’m looking to collaborate on any interesting software development projects<br>🤝 I’m looking for help with landing my first role as a dev<br>🌱 I’m currently learning PHP and cross-platform mobile app developement<br>💬 Ask me about anything coding and working out related
 
-🌐 Passionate about web technologies, I'm on a journey to become a proficient full-stack JavaScript developer. My toolkit includes HTML, CSS, JavaScript, and Node.js.
 
-👩‍💻 Currently, I'm diving deep into the world of frontend development, exploring the intricacies of modern JavaScript frameworks, libraries, and build tools. From building responsive and dynamic UIs with React to harnessing the power of Vite for efficient project setups, I love pushing the boundaries of what's possible on the web.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dahunsi___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/dahunsi-ajanaku) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22526703) 
 
-📚 My current tech stack:
-- 🌈 HTML, CSS, JavaScript
-- 🚀 Node.js
-- ⚛️ React
-- 🔧 Vite
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ajanaku1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajanaku1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajanaku1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🤓 Always hungry for knowledge, I'm dedicated to continuous learning and staying up-to-date with the ever-evolving landscape of web development. I enjoy experimenting with different technologies and refining my skills to create seamless and engaging user experiences.
+---
+[![](https://visitcount.itsvg.in/api?id=ajanaku1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 Let's connect, collaborate, and code together! Open to exciting opportunities and discussions about anything tech-related. 🚀✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

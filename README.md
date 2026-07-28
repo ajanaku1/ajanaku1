@@ -26,6 +26,8 @@ A peer-to-peer marketplace where people sell spare on-device inference. Work is 
 
 ### [Headhunter](https://github.com/ajanaku1/headhunter)
 
+**Hackathon winner**
+
 An AI bounty hunter that finds open-source bounties, works out which ones are worth pursuing, and handles the claim. Payment settles over x402.
 
 ### [Obol](https://github.com/ajanaku1/obol)

@@ -1,53 +1,47 @@
-# Bambam — Autonomous Agent & Agentic-Payments Builder
+# Bambam
 
-Building the rails that let AI agents **pay, execute, and earn on-chain** — x402 micropayments, autonomous execution loops, and verifiable on-chain trust.
+I build agents that can spend money and finish a job without waiting for a person at every step. The part I care about most is making that autonomy safe: budgets, x402 settlement, and proof of what happened onchain.
 
-🏆 **Headhunter** — winning project: an AI bounty hunter that finds, evaluates, and claims open-source bounties, settling autonomously over **x402 micropayments**.
+## Hackathon highlights
 
----
+### [Punt](https://github.com/ajanaku1/punt)
 
-### Current Focus
+**Top 4 finalist, Tether Developers Cup**
 
-**Agents that move money on their own.** Most of my work lives at one intersection: give an autonomous agent a budget, a goal, and on-chain settlement — then make every action verifiable.
+A peer-to-peer football betting app with no bookmaker or central server. Friends post a bet, match each other's USDT stake, then three on-device QVAC models decide the result and release the pot onchain.
 
-- **x402 micropayments** — HTTP 402 settlement for pay-per-call agent work
-- **Autonomous execution loops** — agents that plan, spend, and settle without a human in the loop
-- **Verifiable trust** — TEE attestation, FHE, and on-chain proofs so agent decisions can be checked, not trusted
+### [Hanami](https://github.com/ajanaku1/hanami)
 
----
+**Round of 32, 0G Zero Cup**
 
-### Core Projects
+An AI bouncer for NFT allowlists. It interviews applicants inside a TEE, records attestations on 0G, and exports a Merkle root for EVM mint contracts.
 
-**🏆 [Headhunter](https://github.com/ajanaku1/headhunter)** — *AI bounty hunter (winning project)*
-Finds, evaluates, and claims open-source bounties autonomously, settling work over x402 micropayments. End-to-end agent loop: discover → score → claim → get paid.
+### [InferMart](https://github.com/ajanaku1/InferMart)
 
-**[Obol](https://github.com/ajanaku1/obol)** — *Autonomous USDC-spending research agent*
-Agent fronts the work, runs deep web research, then bills cost + margin on delivery. Per-query spend caps and pre-flight purse checks so it never overspends. Built on the Circle Agent Stack.
+**Top 100, QVAC Hackathon**
 
-**[InferMart](https://github.com/ajanaku1/InferMart)** — *P2P marketplace for idle on-device AI inference*
-Sell spare on-device inference, settled in stablecoin. Delegated inference + metered, pay-per-token settlement between peers.
+A peer-to-peer marketplace where people sell spare on-device inference. Work is metered by token and settled in stablecoins between peers.
 
-**[Hanami](https://github.com/ajanaku1/hanami)** — *TEE-attested AI bouncer for NFT whitelists*
-Verifiable inference on 0G with chain-agnostic Merkle export and ERC-7857 iNFT — screening you can prove, not just trust.
+## More builds
 
-**[ShadowLend](https://github.com/ajanaku1/ShadowLend)** — *Privacy-preserving undercollateralized lending*
-Encrypted credit scoring with Zama fhEVM + Groq AI — credit decisions on data that never leaves the encrypted domain.
+### [Headhunter](https://github.com/ajanaku1/headhunter)
 
----
+An AI bounty hunter that finds open-source bounties, works out which ones are worth pursuing, and handles the claim. Payment settles over x402.
 
-### How I Build
+### [Obol](https://github.com/ajanaku1/obol)
 
-- **One reusable agent-payments core**, applied across hackathons — x402 settlement, spend guards, autonomous execution loops
-- **Verifiable by default** — TEE attestation, FHE, and on-chain proof over "trust me"
-- **Ship the loop end-to-end** — discover → decide → spend → settle, not just a demo screen
-- **Multi-chain** — Solana, Base/EVM, 0G, BSC, Somnia, Sui
+A research agent that pays for its own work up front and bills cost plus margin when it delivers. Spend caps and balance checks stop it from running past its budget.
 
----
+### [ShadowLend](https://github.com/ajanaku1/ShadowLend)
 
-### Stack
+Undercollateralized lending with encrypted credit scoring. Zama fhEVM keeps borrower data private while the protocol makes a credit decision.
 
-`x402` · `Autonomous agents` · `TypeScript` · `Python` · `Solidity` · `Solana` · `EVM` · `Zama fhEVM` · `TEE attestation` · `Circle Agent Stack` · `Next.js`
+## What I keep working on
 
----
+I keep coming back to the same question: how much freedom can you give an agent without losing track of its money or decisions? That is why the plumbing matters to me as much as the demo.
 
-🔗 [bambamxbt.vercel.app](https://bambamxbt.vercel.app)
+## Stack
+
+`TypeScript` · `Python` · `Solidity` · `Next.js` · `x402` · `Solana` · `EVM` · `0G` · `Zama fhEVM` · `TEE attestation` · `Circle Agent Stack`
+
+[Portfolio](https://bambamxbt.vercel.app)
